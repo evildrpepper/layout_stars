@@ -1,0 +1,1 @@
+{"mappings":"ACCA","sources":["index.f08ad9a6.css","src/style.css"],"sourcesContent":["body {\n  background: #fff;\n  margin: 0;\n}\n/*# sourceMappingURL=index.f08ad9a6.css.map */\n","/* add styles here */\nbody {\n  margin: 0;\n  background: white;\n\n  /* border: solid 1px green; */\n}\n"],"names":[],"version":3,"file":"index.f08ad9a6.css.map"}

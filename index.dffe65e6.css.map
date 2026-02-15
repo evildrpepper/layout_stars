@@ -1,0 +1,1 @@
+{"mappings":"AAEA","sources":["src/components/stars/stars.css"],"sourcesContent":["/* add styles here */\n\n.stars {\n  display: flex;\n  align-items: center;\n\n  /*\n  width: 96px;\n  overflow: hidden;\n  */\n\n  /*\n  border: solid 1px black;\n */\n}\n"],"names":[],"version":3,"file":"index.dffe65e6.css.map","sourceRoot":"/__parcel_source_root/"}
